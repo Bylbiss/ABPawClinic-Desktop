@@ -35,7 +35,7 @@ public class LandingPageView extends JFrame {
 
         ImagePanel backgroundPanel = new ImagePanel();
         backgroundPanel.setLayout(new BorderLayout());
-        backgroundPanel.setImage("D:\\NetBeans\\ABpaw-main\\src\\images\\background.jpeg");
+        backgroundPanel.setImage("\\images\\background.jpeg");
         backgroundPanel.setKeepAspectRatio(false);
         backgroundPanel.setBackground(new Color(240, 248, 255));
 
